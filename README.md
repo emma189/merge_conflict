@@ -1,2 +1,6 @@
 # merge_conflict
-Excercise 1, Lektion 2
+
+1. some text
+2. some text
+3. some text
+4. some text
